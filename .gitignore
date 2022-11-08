@@ -1,0 +1,5 @@
+__pycache__
+*venv*
+logs.log
+train copy.csv
+.ipynb_checkpoints
